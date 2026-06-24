@@ -1,0 +1,6 @@
+{
+  "name": "Apna Social Network",
+  "description": "A full-featured social media platform with user registration, profiles, messenger chat, groups, pages, news feed, reels, and monetization.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
